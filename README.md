@@ -1,5 +1,4 @@
-# gitdemo
-Student info
-Name</br>
+Student info<br>
+Name<br>
 ID <br>
 address 
